@@ -22,6 +22,7 @@ To achieve this goal, i propose a _golden rule_
 - [A20J CF ladders](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html)
 - [Theme CP](https://themecp.vercel.app/)
 - [CF EDU](https://codeforces.com/edu/courses)
+- [USACO Guide](https://usaco.guide/general/contests?lang=cpp)
 
 ### Priority
 
