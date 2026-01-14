@@ -6,7 +6,7 @@ The target of learning data structures and algorithms from scratch is to
 - [ ] Get a job as SDE 2(Frontend) in FAANG
 - [ ] Candidate master at codeforces, 5\* at codechef
 
-To achieve this goal, i propose on golden rule
+To achieve this goal, i propose a _golden rule_
 
 - _**Do not invest time in areas which doesn't propel you towards your goal**_
 - Any time that can be used, use it only to gain. (simple and very powerful tool that will deliver success **Guaranteed**)
