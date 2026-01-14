@@ -3,12 +3,12 @@
 Data Structures and algorithms covering basics to advance topics
 The target of learning data structures and algorithms from scratch is to
 
-- [] Get a job as SDE 2(Frontend) in FAANG
-- [] Candidate master at codeforces, 5\* at codechef
+- [ ] Get a job as SDE 2(Frontend) in FAANG
+- [ ] Candidate master at codeforces, 5\* at codechef
 
 ## Deadline
 
-- [] Complete Neetcode sheet by 1st fortnight of march
+- [ ] Complete Neetcode sheet by 1st fortnight of march
 
 ### Resources
 
